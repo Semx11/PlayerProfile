@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = PlayerProfile.MODID, version = PlayerProfile.VERSION)
+@Mod(modid = PlayerProfile.MODID, version = PlayerProfile.VERSION, acceptedMinecraftVersions = "[1.8, 1.8.9]")
 public class PlayerProfile {
 
     public static final String MODID = "hypixelplayerprofile";
