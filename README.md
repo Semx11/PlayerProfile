@@ -4,7 +4,7 @@ When you are on Hypixel in a lobby, you can hold sneak + right click on a player
 
 It's a small mod, but it's a good mod to learn from. It should be fairly easy to understand what it does and how it works.
 
-##Download
+## Download
 
 You can download this mod here: http://dl.semx11.me/PlayerProfile-1.1.jar
 
