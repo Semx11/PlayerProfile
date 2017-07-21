@@ -35,6 +35,10 @@ public class EventClientConnection {
     @SubscribeEvent
     public void playerJoinedWorld(EntityJoinWorldEvent event) {
 
+        if (!PlayerProfile.onHypixel) {
+            return;
+        }
+
         if (!(event.entity instanceof EntityPlayerSP)) {
             return;
         }

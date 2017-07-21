@@ -21,6 +21,11 @@ public class EventChatReceived {
 
     @SubscribeEvent
     public void onChatReceived(ClientChatReceivedEvent event) {
+
+        if (!PlayerProfile.onHypixel) {
+            return;
+        }
+
         String msg = event.message.getUnformattedText();
 
         Matcher m = WAI_PATTERN.matcher(msg);
