@@ -6,6 +6,6 @@ It's a small mod, but it's a good mod to learn from. It should be fairly easy to
 
 ## Download
 
-You can download this mod here: http://dl.semx11.me/PlayerProfile-1.1.jar
+You can download this mod here: https://github.com/Semx11/PlayerProfile/releases/download/1.1/PlayerProfile-1.1.jar
 
 If you have feedback/suggestions, [you can send me a Direct Message on Twitter](https://twitter.com/messages/compose?recipient_id=1938435270)
